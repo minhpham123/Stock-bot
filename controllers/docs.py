@@ -9,4 +9,5 @@ def bot_docs():
     **#sell `<amount>` `<ticker>`**: *Sell a Stock with x amount of shares*
     **#cash**: *Show your cash*
     **#trs**: *Show your transactions history*
+    *Vu is a bitch*
     """
